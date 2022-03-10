@@ -6,4 +6,4 @@ I'm Salim, a developer junior
 - 🔭 Currently working on MySQL database, FastAPI API and Flutter mobile app
 - 🌱 Study development technologies 
 
-![stat](https://github-readme-stats.vercel.app/api?username=Salim212&theme=github&show_icons=true&count_private=true)
+![stat](https://github-readme-stats.vercel.app/api?username=Salim212&theme=github_dark&show_icons=true&count_private=true)
