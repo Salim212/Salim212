@@ -8,7 +8,7 @@ I'm Salim, a developer junior
 
 ![stat](https://github-readme-stats.vercel.app/api?username=Salim212&theme=github_dark&show_icons=true&count_private=true)
   
-<img align="right" width="500" height="500" src="">
+<img align="right" width="500" height="500" src="https://github.com/Salim212/Salim212/blob/main/gitbackground.jpg">
 
 # Salim
 
