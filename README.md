@@ -1,5 +1,4 @@
 
-<img align="right" width="500" height="500" src="https://github.com/Salim212/Salim212/blob/main/gitbackground.jpg">
 
 # Hi there 👋
 
