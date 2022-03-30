@@ -13,39 +13,3 @@ I'm Salim, a developer junior
 # Salim
 
 <img src="https://github.com/Salim212/Salim212/blob/main/flutter.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/css.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/html.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/python.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/java.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/php.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/sql.png"/>
-
-<a href="https://www.youtube.com/%22%3E
- TRAVAUX
-</a>
-
-
-<Br>
-<Br>
-<Br>
-
-If you like my work , you can support me by donating through PayPal:
-
-http://www.paypal.me/
-
-<Br>
-<Br>
-<Br>
-<Br>
-
-
-
-
-## Stay Connected with me !
-
-<a href="https://twitter.com/%22%3E
-  <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png%22/%3E
-</a>
-<a href="https://www.facebook.com/%22%3E
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png%22/%3E
-</a>
-<a href="https://github.com//%22%3E
-  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png%22/%3E
-</a>
-<a href="https://www.instagram.com//%22%3E
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png%22/%3E
-</a>
