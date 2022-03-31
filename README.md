@@ -1,8 +1,7 @@
 
+<img align="right" width="500" height="500" src="https://github.com/Salim212/Salim212/blob/main/Liiims_.png" /> 
 
 # Hi there 👋
-
-<img src="https://github.com/Salim212/Salim212/blob/main/flutter.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/css.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/html.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/python.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/java.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/php.png"/>  <img src="https://github.com/Salim212/Salim212/blob/main/sql.png"/>
 
 ***
 
