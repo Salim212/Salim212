@@ -1,5 +1,5 @@
 
-<img align="right" width="500" height="500" src="https://github.com/Salim212/Salim212/blob/main/Liiims_.png" /> 
+<img align="right" width="500" height="500" src="https://github.com/Salim212/Salim212/blob/main/Liiimsgit_.png" /> 
 
 # Hi there 👋
 
@@ -13,5 +13,4 @@ I'm Salim, a developer junior
 
 
 
-![stat](https://github-readme-stats.vercel.app/api?username=Salim212&theme=bear&show_icons=true&count_private=true)
   
