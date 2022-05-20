@@ -17,10 +17,7 @@
 <br>
 <br>
 <br>
- 
-<p align="center">
- <img height="60" width="60" src="https://github.com/Salim212/Salim212/blob/main/Liiimsgit_%20.png" /> 
-</p>
+
 
 ### Languages
 
