@@ -24,14 +24,14 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=007396)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=007396)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=007396)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=007396)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=007396)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
