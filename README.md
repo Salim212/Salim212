@@ -25,8 +25,8 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=Css)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 
