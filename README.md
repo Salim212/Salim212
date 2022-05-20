@@ -24,19 +24,14 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=007396)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=007396)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=007396)
 
 ### Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
-![VMWare](https://img.shields.io/badge/-VMWare-000?&logo=VMWare)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=007396)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=007396)
